@@ -1,0 +1,159 @@
+meta:
+  engine: 4.1.0
+units:
+  # Proxy spacing variables
+  kx: cx
+  ky: cy
+  # Padding variables
+  px: kx + 2
+  py: ky + 2
+points:
+  # Define key placement
+  zones:
+    matrix:
+      columns:
+        outer:
+          rows.mod.skip: true
+        pinky:
+          rows.mod.skip: true
+        ring:
+          key:
+            stagger: .7ky
+        middle:
+          key:
+            stagger: 3
+        index:
+          key:
+            stagger: -5
+        inner:
+          rows.mod.skip: true
+          key:
+            stagger: -5
+      rows:
+        mod:
+        bottom:
+        home:
+        top:
+        num:
+    thumbs:
+      key:
+        padding: 1ky
+        spread: 1.15kx
+        shift: [7, 4.5]
+        splay: -7
+      anchor:
+        ref: matrix_inner_mod
+        shift: [-15, -21]
+      columns:
+        inner:
+          key:
+            splay: -30
+        middle:
+        outer:
+      rows:
+        bottom:
+        top:
+outlines:
+  raw:
+    - what: rectangle
+      where: true
+      size: [px, py]
+  keys:
+    - what: rectangle
+      where: true
+      bound: false
+      size: [kx-0.5, ky-0.5]
+  board:
+    - what: polygon
+      operation: stack
+      fillet: 4
+      points:
+        - ref: matrix_outer_num
+          shift: [-.55px,.55py]
+        - ref: matrix_ring_num
+          shift: [-.55px,.55py]
+        - ref: matrix_middle_num
+          shift: [-.55px,.6py]
+        - ref: matrix_index_num
+          shift: [-.55px,.85py]
+        - ref: matrix_inner_num
+          shift: [-.55px,.85py]
+        - ref: matrix_inner_bottom
+          shift: [.55px, 3.5py]
+        - ref: thumbs_inner_top
+          shift: [-.25px, .6py]
+        - ref: thumbs_middle_top
+          shift: [.1px,.6py]
+        - ref: thumbs_outer_top
+          shift: [.55px,.6py]
+        - ref: thumbs_outer_bottom
+          shift: [.9px,.55py]
+        - ref: thumbs_outer_bottom
+          shift: [.55px,-.55py]
+        - ref: thumbs_middle_bottom
+          shift: [0px,-0.55py]
+        - ref: thumbs_inner_bottom
+          shift: [-.55px,-.55py]
+        - ref: matrix_index_mod
+          shift: [-.55px,-.5py]
+        - ref: matrix_middle_mod
+          shift: [-.55px,-.75py]
+        - ref: matrix_ring_mod
+          shift: [-.55px,-.575py]
+        - ref: matrix_pinky_bottom
+          shift: [-.55px,-.55py]
+        - ref: matrix_outer_bottom
+          shift: [-.55px,-.55py]
+  combo:
+    - name: board
+    - operation: subtract
+      name: keys
+pcbs:
+  tomahawk:
+    footprints:
+      choc_hotswap:
+        what: choc
+        where: true
+        params:
+            keycaps: true
+            reverse: true
+            hotswap: true
+            from: "{{column_net}}"
+            to: "{{colrow}}"
+      diode:
+        what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -5]
+      promicro: # this section should be changed to an elite-pi or something
+        what: promicro
+        params:
+          orientation: "down"
+        where:
+          ref: matrix_inner_top
+          shift: [0, 0]
+          rotate: -90
+      oled: # this section could be a e-ink display rather than an oled (wireless)
+        what: oled
+        params:
+          side: "F"
+          SDA: P2
+          SCL: P3
+        where:
+          ref: matrix_inner_top
+          shift: [0, 0]
+          rotate: -90
+      reset: # reset button for flashing maybe not needed
+        what: button
+        params:
+          from: GND
+          to: RST
+        where:
+          ref: matrix_inner_bottom
+          shift: [0, -1]
+          rotate: -90
+
+cases:
