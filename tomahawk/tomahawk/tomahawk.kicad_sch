@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 43.18 90.17 0)
 			(effects
 				(font
@@ -3031,7 +3031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 43.18 33.02 0)
 			(effects
 				(font
@@ -3099,7 +3099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 90.17 0)
 			(effects
 				(font
@@ -3167,7 +3167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 138.43 33.02 0)
 			(effects
 				(font
@@ -3411,7 +3411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 147.32 0)
 			(effects
 				(font
@@ -3479,7 +3479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 43.18 52.07 0)
 			(effects
 				(font
@@ -3635,7 +3635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 147.32 0)
 			(effects
 				(font
@@ -3703,7 +3703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 71.12 0)
 			(effects
 				(font
@@ -4037,7 +4037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProMicro_RP2040:pro_micro_rp2040"
+		(property "Footprint" "ProMicro RP2040:pro_micro_rp2040"
 			(at 198.12 31.75 0)
 			(effects
 				(font
@@ -4204,7 +4204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 128.27 0)
 			(effects
 				(font
@@ -4448,7 +4448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 138.43 109.22 0)
 			(effects
 				(font
@@ -4604,7 +4604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 71.12 0)
 			(effects
 				(font
@@ -4759,7 +4759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 138.43 90.17 0)
 			(effects
 				(font
@@ -4915,7 +4915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 62.23 52.07 0)
 			(effects
 				(font
@@ -4983,7 +4983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 62.23 109.22 0)
 			(effects
 				(font
@@ -5139,7 +5139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 43.18 71.12 0)
 			(effects
 				(font
@@ -5295,7 +5295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 90.17 0)
 			(effects
 				(font
@@ -5363,7 +5363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 71.12 0)
 			(effects
 				(font
@@ -5431,7 +5431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 52.07 0)
 			(effects
 				(font
@@ -5587,7 +5587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 33.02 0)
 			(effects
 				(font
@@ -5743,7 +5743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 33.02 0)
 			(effects
 				(font
@@ -5987,7 +5987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 166.37 0)
 			(effects
 				(font
@@ -6319,7 +6319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 138.43 52.07 0)
 			(effects
 				(font
@@ -6387,7 +6387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 52.07 0)
 			(effects
 				(font
@@ -6981,7 +6981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 128.27 0)
 			(effects
 				(font
@@ -7049,7 +7049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 62.23 71.12 0)
 			(effects
 				(font
@@ -7117,7 +7117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 166.37 0)
 			(effects
 				(font
@@ -7185,7 +7185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 109.22 0)
 			(effects
 				(font
@@ -7341,7 +7341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 109.22 0)
 			(effects
 				(font
@@ -7409,7 +7409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 109.22 0)
 			(effects
 				(font
@@ -7477,7 +7477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 138.43 71.12 0)
 			(effects
 				(font
@@ -7809,7 +7809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 62.23 33.02 0)
 			(effects
 				(font
@@ -7877,7 +7877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 33.02 0)
 			(effects
 				(font
@@ -8033,7 +8033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 43.18 109.22 0)
 			(effects
 				(font
@@ -8101,7 +8101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 62.23 90.17 0)
 			(effects
 				(font
@@ -8344,7 +8344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 90.17 0)
 			(effects
 				(font
@@ -8412,7 +8412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 128.27 0)
 			(effects
 				(font
@@ -8656,7 +8656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 100.33 147.32 0)
 			(effects
 				(font
@@ -8812,7 +8812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 119.38 166.37 0)
 			(effects
 				(font
@@ -8968,7 +8968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "Foostan:keyswitch_choc12_hotswap_1u"
 			(at 81.28 52.07 0)
 			(effects
 				(font
