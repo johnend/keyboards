@@ -1,0 +1,10 @@
+[submodule "libs/foostan"]
+	path = libs/foostan
+	url = https://github.com/foostan/kbd
+[submodule "libs/scottokeebs"]
+	path = libs/scottokeebs
+	url = https://github.com/johnend/scottokeebs.git
+	branch = extras-only
+[submodule "libs/pro-micro-rp2040"]
+	path = libs/pro-micro-rp2040
+	url = https://github.com/rroels/kicad_pro_micro_rp2040
