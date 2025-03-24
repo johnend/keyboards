@@ -2521,7 +2521,7 @@
 	)
 	(global_label "TROW2"
 		(shape input)
-		(at 189.23 80.01 270)
+		(at 186.69 80.01 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2531,7 +2531,7 @@
 		)
 		(uuid "40ff3af9-60c6-44f8-94fd-6dae527e740e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 189.23 89.2242 90)
+			(at 186.69 89.2242 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2675,7 +2675,7 @@
 	)
 	(global_label "TROW1"
 		(shape input)
-		(at 186.69 80.01 270)
+		(at 189.23 80.01 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2685,7 +2685,7 @@
 		)
 		(uuid "62053bcf-b1f4-44c4-a86d-038678999c58")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 89.2242 90)
+			(at 189.23 89.2242 90)
 			(effects
 				(font
 					(size 1.27 1.27)
