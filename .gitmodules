@@ -8,3 +8,6 @@
 [submodule "libs/pro-micro-rp2040"]
 	path = libs/pro-micro-rp2040
 	url = https://github.com/rroels/kicad_pro_micro_rp2040
+[submodule "libs/nice-nano"]
+	path = libs/nice-nano
+	url = https://github.com/bstiq/nice-nano-kicad
