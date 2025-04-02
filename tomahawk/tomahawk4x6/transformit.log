@@ -1,0 +1,20 @@
+2025-03-28 00:42:26,480 DEBUG: Running transform on 12 selected items
+2025-03-28 00:42:26,480 DEBUG: Calculated transform center: (189009578, 142279202)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 3 (Footprint) at (197836775, 137191626)
+2025-03-28 00:42:26,480 DEBUG: Moving footprint 'D35'
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 27 (Group) at (169078409, 133634291)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 27 (Group) at (209962702, 152569992)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 27 (Group) at (190295900, 130491625)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 3 (Footprint) at (216783238, 141629440)
+2025-03-28 00:42:26,480 DEBUG: Moving footprint 'D36'
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 27 (Group) at (189009578, 142279202)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 27 (Group) at (209962702, 132828367)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 27 (Group) at (169019694, 153325289)
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 3 (Footprint) at (197836775, 157028123)
+2025-03-28 00:42:26,480 DEBUG: Moving footprint 'D38'
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 3 (Footprint) at (167976461, 133634291)
+2025-03-28 00:42:26,480 DEBUG: Moving footprint 'SW34'
+2025-03-28 00:42:26,480 DEBUG: Transforming drawing type 3 (Footprint) at (188836775, 130491625)
+2025-03-28 00:42:26,481 DEBUG: Moving footprint 'SW35'
+2025-03-28 00:42:26,481 DEBUG: Transforming drawing type 27 (Group) at (190295900, 150328125)
+2025-03-28 00:42:26,481 DEBUG: Done
